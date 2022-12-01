@@ -18,4 +18,11 @@ git init
 ## lokales git mit github verbinden
 git remote add origin https://github.com/devops1222/spielwiese.git
 
+## alle dateien ins git aufnehmen
+git add .
+
+## commit 
+git commit -m "first commit"
+
+## ins github mergen
 git push -u origin 
