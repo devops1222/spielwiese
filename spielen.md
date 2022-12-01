@@ -32,4 +32,8 @@ git add .
 git commit -m "first commit"
 
 ## ins github mergen
-git push -u origin 
+git push -u origin Master
+
+
+## eine änderung :)
+
